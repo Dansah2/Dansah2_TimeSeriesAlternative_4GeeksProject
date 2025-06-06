@@ -11,7 +11,7 @@ We aim to analyze past sales data, identify trends, and build a robust forecasti
 📊 Features:
 
 - `date`: Datetime
-- `sales`: Nummerical
+- `sales`: Numerical
 
 ## Structure
 
