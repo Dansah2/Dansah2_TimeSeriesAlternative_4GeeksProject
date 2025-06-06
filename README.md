@@ -1,6 +1,10 @@
-# Data Science Project Boilerplate
+# 📈 Sales Forecasting System
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+This project focuses on forecasting company sales to support a strategic decision: opening a new warehouse. Accurate sales predictions will help estimate the space required based on projected inventory needs. We’ll use **time series analysis** and **ARIMA modeling** to analyze sales data and forecast future demand.
+
+## 🚀 Project Overview
+
+We aim to analyze past sales data, identify trends, and build a robust forecasting model. The model will help answer critical questions about growth, seasonality and forecasting upcoming sales to inform warehouse planning.
 
 ## Structure
 
