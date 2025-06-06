@@ -10,9 +10,9 @@ We aim to analyze past sales data, identify trends, and build a robust forecasti
 
 📊 Features:
 
-- `date`: Numerical
+- `date`: Datetime
 - `sales`: Nummerical
-- 
+
 ## Structure
 
 The project is organized as follows:
