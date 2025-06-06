@@ -6,6 +6,13 @@ This project focuses on forecasting company sales to support a strategic decisio
 
 We aim to analyze past sales data, identify trends, and build a robust forecasting model. The model will help answer critical questions about growth, seasonality and forecasting upcoming sales to inform warehouse planning.
 
+## 📁 Dataset
+
+📊 Features:
+
+- `date`: Numerical
+- `sales`: Nummerical
+- 
 ## Structure
 
 The project is organized as follows:
